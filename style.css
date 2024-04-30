@@ -1,9 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Times, 'cambria', serif;
     margin: 0;
     padding: 0;
 }
-
 .sidebar {
     background-color: #120e2c;
     color:white ;
@@ -17,5 +16,5 @@ body {
 
 .main-content {
     margin-left: 220px; /* Adjust the margin to accommodate the sidebar width */
-    padding: 20px;
+    padding: 50px;
 }
